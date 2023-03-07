@@ -10,11 +10,10 @@ import './App.css'
 
 export default function App() {
   return (
-      <BrowserRouter>
-      <Mynavbar/>
-      <Routes>
-        <Route path='/myphoto' element={<MyPhotos/>} ></Route>
-      </Routes>
-      </BrowserRouter>
+     
+     
+     <>
+     <p>shakalad</p>
+     </>
   )
 }
